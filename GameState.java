@@ -1,20 +1,10 @@
 /**
-* Filename: GameState.java
-* @author Aryan Pareek
-* Login: cs8bwi20jn
-* Date: 2/6/2020
-* Sources of Help: Course notes and textbook
-*
-* This file is designed to demonstrate my knowledge with objects, implementing
-* methods, logic regarding 2D arrays, and creating a class from scratch.
-*/
-
-/**
 * This class is used to implement the methods necessary to make the game 2048,
 * including getting and setting the board, getting and setting the score,
 * creating and adding random tiles, counting empty tiles, rotating the board,
 * and performing moves and slides.
 */
+
 import java.util.*;
 
 public class GameState
@@ -23,7 +13,7 @@ public class GameState
   private int[][] board;
   private int score;
 
-  // REQUIRED - put this in your GameState.java
+  // REQUIRED - put this in GameState.java
   public String toString()
   {
     StringBuilder outputString = new StringBuilder();
