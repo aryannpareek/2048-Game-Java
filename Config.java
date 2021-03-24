@@ -1,16 +1,4 @@
 /**
- * This file contains settings and constants for Game2048.
- * It is not required for submission.
- *
- * DO NOT ADD ANYTHING TO THIS FILE. You may change the values
- * of these constants if you wish (and changing them will be
- * useful for testing), but note that we will be using
- * our own copy of this file when we grade your assignment.
- *
- * @author Charles Tianchen Yu, Yingxi Lin
- */
-
- /**
   * A class that stores setting and constants for our 2048 game.
   */
 public class Config
